@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Charumathi
 
-<img align="right" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img src="https://skillicons.dev/icons?i=java,html,css,mysql,figma,git,github,vscode" />
 
 🎓 Computer Science Engineering Student
 
