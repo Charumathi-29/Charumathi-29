@@ -41,6 +41,8 @@
 - Evently Digital Platform
 - ITI Billing System
 
+---
+
 ## 💻 Tech Stack
 
 <p>
@@ -65,12 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Charumathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charumathi-29&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charumathi-29&layout=compact&theme=tokyonight)
-
 
 ## 📫 Connect with Me
 
@@ -78,3 +74,5 @@
 
 📧 Email: charumathis2909@gmail.com
 ⭐ Thank you for visiting my GitHub!
+
+---
