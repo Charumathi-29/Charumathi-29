@@ -77,7 +77,7 @@
 
 ## 📫 Connect with Me
 
-💼 LinkedIn:https://www.linkedin.com/in/charumathi-s
+💼 LinkedIn:https://www.linkedin.com/in/charumathi-s-480984312/
 
 📧 Email: charumathis2909@gmail.com
 ⭐ Thank you for visiting my GitHub!
