@@ -17,11 +17,9 @@
 
 ## 🌸 About Me
 
-👩‍🎓 Final Year Computer Science Engineering Student
-
 🚗 Currently building **GO MECHANIC**, an on-demand automobile repair and roadside assistance platform.
 
-🎨 I enjoy designing clean and user-friendly UI/UX interfaces using Figma.
+🎨 I enjoy designing intuitive and user-friendly interfaces using Figma while continuously improving my design thinking skills.
 
 ☕ Currently strengthening my Java programming, DSA and problem-solving skills for software engineering roles.
 
@@ -32,14 +30,23 @@
 ## 🚀 Projects
 
 🚗 **GO MECHANIC**
-- Smart vehicle breakdown assistance platform
+- On-demand automobile repair and roadside assistance platform
 - UI/UX Design
 - Flutter (Learning)
 - Firebase (Learning)
 
-🎨 **UI/UX Portfolio**
-- Evently Digital Platform
-- ITI Billing System
+## 📚 Currently Learning
+
+- Java Programming
+- Data Structures & Algorithms
+- Git & GitHub
+- Flutter
+
+🎨 UI/UX Portfolio
+
+• Evently – Event Management Platform UI
+
+• ITI Billing System – Billing Dashboard UI
 
 ---
 
@@ -70,7 +77,7 @@
 
 ## 📫 Connect with Me
 
-💼 LinkedIn:
+💼 LinkedIn:https://www.linkedin.com/in/charumathi-s
 
 📧 Email: charumathis2909@gmail.com
 ⭐ Thank you for visiting my GitHub!
