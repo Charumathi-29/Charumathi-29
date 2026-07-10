@@ -1,27 +1,45 @@
 # Hi there! 👋 I'm Charumathi
 
-<img src="https://skillicons.dev/icons?i=java,html,css,mysql,figma,git,github,vscode" />
 
-🎓 Computer Science Engineering Student
+🎓 Final Year Computer Science Engineering Student
 
 💻 Aspiring Software Engineer
 
 🚗 Currently Building **GO MECHANIC**
 
-🎨 Passionate about **UI/UX Design**
+🎨 Passionate about UI/UX Design
 
-☕ Learning **Java, DSA & Flutter**
+📚 Currently Learning Java, DSA, Flutter & GitHub
+
+💙 Based in Chennai, India
 
 ---
 
 ## 🌸 About Me
 
-- 🌱 Currently improving my Java and DSA skills
-- 🚗 Working on GO MECHANIC - Smart Vehicle Service Platform
-- 🎨 Love designing clean and user-friendly interfaces
-- 🎯 Goal: Become a Software Engineer and build impactful products
+👩‍🎓 Final Year Computer Science Engineering Student
+
+🚗 Currently building **GO MECHANIC**, an on-demand automobile repair and roadside assistance platform.
+
+🎨 I enjoy designing clean and user-friendly UI/UX interfaces using Figma.
+
+☕ Currently strengthening my Java programming, DSA and problem-solving skills for software engineering roles.
+
+💙 My goal is to become a Software Engineer who builds meaningful products and keeps learning every day.
 
 ---
+
+## 🚀 Projects
+
+🚗 **GO MECHANIC**
+- Smart vehicle breakdown assistance platform
+- UI/UX Design
+- Flutter (Learning)
+- Firebase (Learning)
+
+🎨 **UI/UX Portfolio**
+- Evently Digital Platform
+- ITI Billing System
 
 ## 💻 Tech Stack
 
@@ -31,24 +49,32 @@
 
 ---
 
-## 🚀 Current Focus
+## 🎯 Current Focus
 
-✔ Campus Placements
-
-✔ GO MECHANIC Project
-
-✔ Java Programming
-
-✔ Data Structures & Algorithms
-
-✔ UI/UX Portfolio
+- 💻 Java Programming
+- 📚 Data Structures & Algorithms
+- 🚗 GO MECHANIC Project
+- 🎨 UI/UX Portfolio
+- 🎯 Campus Placements
 
 ---
 
 ## 🌟 Quote
 
-> *"Every expert was once a beginner who never stopped learning."*
+> "Learning, Building, Improving — One step at a time."
 
 ---
 
+## 📊 GitHub Stats
+
+![Charumathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charumathi-29&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charumathi-29&layout=compact&theme=tokyonight)
+
+
+## 📫 Connect with Me
+
+💼 LinkedIn:
+
+📧 Email: charumathis2909@gmail.com
 ⭐ Thank you for visiting my GitHub!
